@@ -5,32 +5,28 @@ The app provides features like emergency contact storage, helpline numbers, a pe
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 ---
 
-## ✨ Features
-- 👤 **User Authentication** – Login and Create Account functionality  
-- 📞 **Relative & Helpline Numbers** – Quick access to emergency contacts  
-- 📅 **Period Tracker** – Simple menstrual cycle tracking  
-- 🤖 **Chatbot for Help** – Easy access to guidance and support  
-- 🚪 **Logout Functionality**  
+##  Features
+-  **User Authentication** – Login and Create Account functionality  
+-  **Relative & Helpline Numbers** – Quick access to emergency contacts  
+-  **Period Tracker** – Simple menstrual cycle tracking  
+-  **Chatbot for Help** – Easy access to guidance and support  
+-  **Logout Functionality**  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend:** React.js, JavaScript, HTML5, CSS3  
 - **Styling:** Custom CSS  
 - **Build Tool:** Create React App  
 
----
-
-## 🚀 Getting Started
-
 ### Prerequisites
 Make sure you have **Node.js** and **npm** installed.  
-Download here: [https://nodejs.org/](https://nodejs.org/)
+
 
 ### Installation
 1. Clone this repository:
@@ -39,19 +35,17 @@ Download here: [https://nodejs.org/](https://nodejs.org/)
    cd women-protection-analytics
 
 Install dependencies:
-
+```bash
 npm install
-
-
+```
 Start the development server:
-
+```bash
 npm start
-
+```
 📦 Build for Production
+```bash
 npm run build
+```
 
 
-👩‍💻 Author
-
-Uzma Nayab
 
