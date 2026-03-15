@@ -11,7 +11,6 @@ The app provides features like emergency contact storage, helpline numbers, a pe
 ---
 
 ##  Features
--  **User Authentication** – Login and Create Account functionality  
 -  **Relative & Helpline Numbers** – Quick access to emergency contacts  
 -  **Period Tracker** – Simple menstrual cycle tracking  
 -  **Chatbot for Help** – Easy access to guidance and support  
